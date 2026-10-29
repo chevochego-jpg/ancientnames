@@ -1,0 +1,308 @@
+available: false
+id: 0
+mainset:
+- names: []
+name: 'New Townname #0'
+source: ''
+subsets:
+- name: newset-0
+  parts:
+  - names:
+    - name: Olbia
+      probability: 1
+    - name: Panticapaeum
+      probability: 1
+    - name: Phanagoria
+      probability: 1
+    - name: Chersonesus
+      probability: 1
+    - name: Theodosia
+      probability: 1
+    - name: Nymphaeum
+      probability: 1
+    - name: Myrmekion
+      probability: 1
+    - name: Tyritake
+      probability: 1
+    - name: Kepoi
+      probability: 1
+    - name: Hermonassa
+      probability: 1
+    - name: Gorgippia
+      probability: 1
+    - name: Tanais
+      probability: 1
+    - name: Berezan
+      probability: 1
+    - name: Tyras
+      probability: 1
+    - name: Nikonia
+      probability: 1
+    - name: 'Syracuse '
+      probability: 1
+    - name: Messana
+      probability: 1
+    - name: Tarentum
+      probability: 1
+    - name: Neapolis
+      probability: 1
+    - name: Massalia
+      probability: 1
+    - name: Athens
+      probability: 1
+    - name: Sparta
+      probability: 1
+    - name: Corinth
+      probability: 1
+    - name: Thebes
+      probability: 1
+    - name: Argos
+      probability: 1
+    - name: Delphi
+      probability: 1
+    - name: Olympia
+      probability: 1
+    - name: Mycenae
+      probability: 1
+    - name: Tiryns
+      probability: 1
+    - name: Pylos
+      probability: 1
+    - name: Miletus
+      probability: 1
+    - name: Ephesus
+      probability: 1
+    - name: Phocaea
+      probability: 1
+    - name: Eretria
+      probability: 1
+    - name: Chalcis
+      probability: 1
+    - name: Megara
+      probability: 1
+    - name: Aegina
+      probability: 1
+    - name: Larissa
+      probability: 1
+    - name: Volos
+      probability: 1
+    - name: Nafpilo
+      probability: 1
+- name: newset-1
+  parts:
+  - names:
+    - name: Roma
+      probability: 1
+    - name: Ostia
+      probability: 1
+    - name: Pompeii
+      probability: 1
+    - name: Herculaneum
+      probability: 1
+    - name: Capua
+      probability: 1
+    - name: Ravenna
+      probability: 1
+    - name: Ariminum
+      probability: 1
+    - name: Ancona
+      probability: 1
+    - name: 'Brundisium '
+      probability: 1
+    - name: Panormus
+      probability: 1
+    - name: Verona
+      probability: 1
+    - name: Mediolanum
+      probability: 1
+    - name: Aquileia
+      probability: 1
+    - name: Utica
+      probability: 1
+    - name: Leptis Magna
+      probability: 1
+    - name: Carthago
+      probability: 1
+- name: newset-2
+  parts:
+  - names:
+    - name: Tyre
+      probability: 1
+    - name: Sidon
+      probability: 1
+    - name: Byblos
+      probability: 1
+    - name: Berytus
+      probability: 1
+    - name: Arwad
+      probability: 1
+    - name: Tripoli
+      probability: 1
+    - name: Acre
+      probability: 1
+    - name: Jaffa
+      probability: 1
+    - name: Dor
+      probability: 1
+    - name: Ashkelon
+      probability: 1
+    - name: Gades
+      probability: 1
+    - name: Hippo
+      probability: 1
+    - name: Hadrumetum
+      probability: 1
+    - name: Soluntum
+      probability: 1
+    - name: Panormus
+      probability: 1
+    - name: Tharros
+      probability: 1
+- name: newset-3
+  parts:
+  - names:
+    - name: Knossos
+      probability: 1
+    - name: Phaistos
+      probability: 1
+    - name: Malia
+      probability: 1
+    - name: Zakros
+      probability: 1
+    - name: Kydonia
+      probability: 1
+    - name: Gortyn
+      probability: 1
+    - name: Lyktos
+      probability: 1
+    - name: Ierapetra
+      probability: 1
+    - name: Sitia
+      probability: 1
+    - name: Rethymnon
+      probability: 1
+    - name: Chania
+      probability: 1
+    - name: Lato
+      probability: 1
+    - name: Praisos
+      probability: 1
+- name: newset-4
+  parts:
+  - names:
+    - name: Memphis
+      probability: 1
+    - name: Alexandria
+      probability: 1
+    - name: Heliopolis
+      probability: 1
+    - name: Sais
+      probability: 1
+    - name: Tanis
+      probability: 1
+    - name: Bubastis
+      probability: 1
+    - name: Abydos
+      probability: 1
+    - name: Hierakonpolis
+      probability: 1
+    - name: Elephantine
+      probability: 1
+    - name: Edfu
+      probability: 1
+    - name: Dendera
+      probability: 1
+    - name: Hermopolis
+      probability: 1
+    - name: Herakleopolis
+      probability: 1
+    - name: Crocodilopolis
+      probability: 1
+    - name: Naucratis
+      probability: 1
+    - name: Pelusium
+      probability: 1
+    - name: Antinoopolis
+      probability: 1
+    - name: Oxyrhunchus
+      probability: 1
+    - name: Aphroditopolis
+      probability: 1
+- name: newset-5
+  parts:
+  - names:
+    - name: Mtskheta
+      probability: 1
+    - name: Uplistsikhe
+      probability: 1
+    - name: Dmanisi
+      probability: 1
+    - name: Vani
+      probability: 1
+    - name: Phasis
+      probability: 1
+    - name: Dioscurias
+      probability: 1
+    - name: Pityus
+      probability: 1
+    - name: Sukhumi
+      probability: 1
+    - name: Gagra
+      probability: 1
+    - name: Tskhum
+      probability: 1
+    - name: Derbent
+      probability: 1
+    - name: Chola
+      probability: 1
+    - name: Barda
+      probability: 1
+    - name: Kabala
+      probability: 1
+    - name: Shamakhi
+      probability: 1
+    - name: Gandzasar
+      probability: 1
+    - name: Ani
+      probability: 1
+    - name: Kars
+      probability: 1
+    - name: Tushpa
+      probability: 1
+    - name: Erebuni
+      probability: 1
+    - name: Argishtikhinili
+      probability: 1
+    - name: Teishebaini
+      probability: 1
+    - name: Armavir
+      probability: 1
+    - name: Artashat
+      probability: 1
+    - name: Tigranocerta
+      probability: 1
+    - name: Vagharshapat
+      probability: 1
+    - name: Dvin
+      probability: 1
+- name: newset-6
+  parts:
+  - names:
+    - name: Setidava
+      probability: 1
+    - name: Kalisia
+      probability: 1
+    - name: Stragona
+      probability: 1
+    - name: Arsenium
+      probability: 1
+    - name: Serdica
+      probability: 1
+    - name: Scupi
+      probability: 1
+    - name: Bargala
+      probability: 1
+    - name: Scitania
+      probability: 1
+    - name: Scirtiana
+      probability: 1
